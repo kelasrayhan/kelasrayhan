@@ -1,7 +1,6 @@
 
-![Alt text](1-1.png)
 
-
+![Alt text](PEMO-1.png)
 
 Pemograman Dasar C
 
